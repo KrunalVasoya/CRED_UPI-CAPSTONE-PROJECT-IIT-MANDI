@@ -49,10 +49,6 @@ Full numbers and reasoning are in [`memo/CRED_UPI_Growth_Story_Memo.pdf`](memo/)
 | `memo/` | One-page decision memo (PDF) |
 | `ai_appendix/` | Prompt log + judgment note |
 
-## Dashboard
-
-Published Tableau Public link: **[add your link here once published]**
-
 ## AI Workflow Appendix
 
 See [`ai_appendix/`](ai_appendix/) — includes the moment an early AI theory about the data ("every number is roughly doubled") turned out to be imprecise, and how we traced it to the actual, specific root cause instead of accepting the first explanation.
