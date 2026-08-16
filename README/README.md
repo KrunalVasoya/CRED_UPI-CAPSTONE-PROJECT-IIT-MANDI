@@ -56,7 +56,3 @@ Published Tableau Public link: **[add your link here once published]**
 ## AI Workflow Appendix
 
 See [`ai_appendix/`](ai_appendix/) — includes the moment an early AI theory about the data ("every number is roughly doubled") turned out to be imprecise, and how we traced it to the actual, specific root cause instead of accepting the first explanation.
-
-## Video Walkthrough
-
-**[add your video link here]** — 3-minute walkthrough of this repo and the dashboard, in our own voice.
